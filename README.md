@@ -1,1 +1,4 @@
-"# pfe2025" 
+install the dependencies :
+npm install  
+cd frontend
+npm run dev 
